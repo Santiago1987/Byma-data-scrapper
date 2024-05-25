@@ -12,5 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "playwright": "^1.44.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago1987/BYMA-scrapper.git"
   }
 }
